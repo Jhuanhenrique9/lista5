@@ -1,0 +1,5 @@
+A interface é intuitiva
+mas para o uso correto, adicione o produto na caixa interativa da pagina e clique em adicionar, após isso o produto sera adicionado a lista seguindo a ordem de quem foi adicionado primeiro
+o produto pode ser editado caso você cometa algum erro nesse processo, ou totalmente excluído.
+
+tem uma caixa interativa ao lado do produto a qual se for pressionada, movera o produto ao fim da lista e deixara ele marcado, assim o listando como um produto já pego/comprado. 
